@@ -1,0 +1,2 @@
+function toggleMenu(){document.getElementById("links").classList.toggle("open")}
+function copyUPI(){navigator.clipboard?.writeText("YOUR-UPI@upi");alert("UPI ID copy हो गई। इसे अपनी असली UPI ID से बदलना न भूलें।");}
